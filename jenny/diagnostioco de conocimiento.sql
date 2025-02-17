@@ -1,20 +1,5 @@
 use base1;
 
--- 1 realizar 2 tablas con tres campos y realizar 5  inserciones ,numerico ,nombre ,documento y que esten unidas
-
-create table empleados(
-id_empleado int auto_increment primary key,
-nombre varchar(20),
-edad int,
-cargo_emp int, 
-salario float,
-FOREIGN KEY (cargo_emp) REFERENCES Cargo(id_cargo)
-);
-
-create table cargo(
-id_cargo int primary key,
-nombre_cargo varchar(20));
-
 select * from empleados;
 select nombre,edad from empleados where edad > 20;
 select nombre,edad from empleados where edad > 20 order by edad desc;
@@ -36,6 +21,11 @@ select * from empleados group by nombre having edad >20;
 update empleados set salario= salario + 500 where id_empleado = 1;
 
 
+
+drop procedure if exists  Pa_empleados_sueldo;
+
+call Pa_empleados_sueldo();
+call Pa_familia(2)
 
 
 
