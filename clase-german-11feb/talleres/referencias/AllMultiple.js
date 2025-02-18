@@ -1,34 +1,3 @@
-// const promesa1 = new Promise((resolve)=>{
-//     setTimeout(() => {
-//         resolve(4)
-//     }, 1000);
-// })
-
-// const promesa2 = new Promise((resolve, reject) => {
-//     setTimeout(() => {
-//         resolve(5)
-//     }, 2000);
-// })
-
-// const promesa3 = new Promise((resolve, reject) => {
-//     setTimeout(() => {
-//         promesa()
-//     }, 3000);
-// })
-
-// function promesa() {
-//     return resolve(promesa1*promesa2)
-// }
-
-// Promise.all([promesa1,promesa2,promesa3])
-// .then((resultado) =>{
-//     console.log(resultado);
-// }).catch((error) =>{
-//     console.error(error);
-    
-// })
-
-
 const promesa1 = new Promise((resolve) => {
     setTimeout(() => {
         resolve(4); // Resuelve con el valor 4 después de 1 segundo
