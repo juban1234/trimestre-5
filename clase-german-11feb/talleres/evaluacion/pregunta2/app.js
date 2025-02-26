@@ -35,9 +35,12 @@ function llamarGemini(prompt) {
 
   const texto1 = new Promise((resolve) => {
     resolve(llamarGemini(  ` puedes resumirme este texto :
-      Un gato atigrado ronroneaba plácidamente, acurrucado en un rayo de sol que se filtraba por la ventana.
-      Su respiración era suave, un ritmo lento y tranquilo que llenaba el silencio de la habitación. 
-      El mundo exterior parecía desvanecerse, dejando solo la calidez y la paz del momento.`))
+      Comparativa entre diseño  de arquitectura  y diseño de softwareDiseño de Arquitectura: 
+      Se enfoca en la estructura global del Sistema; busca que el sistema sea escalable, seguro y mantenible a largo plazo.
+       Su objetivo es asegurar que el sistema crezca y evolucione sin problemas.Diseño de Software: Se centra en cómo organizar
+        el código dentro de la arquitectura, utiliza patrones de diseño y asegura que el código sea modular, reusable y fácil de mantener.
+         Se preocupa por detalles como legibilidad, mantenibilidad y eficiencia del código.
+`))
   })
 
   const texto2 = new Promise((resolve) => {

@@ -74,12 +74,11 @@ const promesa1 = () => {
         return response.json();
       })
       .then((data) => {
-        // Accedemos a la primera medición para obtener la información de temperatura y clima
+
         const currentWeather = data.properties.timeseries[0].data.instant.details;
         const temperature = currentWeather.air_temperature;
         const weatherCode = currentWeather.weatherCode;
   
-        // Generamos una descripción del clima
         let weatherDescription = "";
         if (weatherCode >= 0 && weatherCode <= 3) {
           weatherDescription = "Soleado";
@@ -97,7 +96,7 @@ const promesa1 = () => {
         console.error("Hubo un problema con la solicitud a MET.no: ", error);
       });
   };
-  
+
   // Usamos Promise.race para obtener la respuesta más rápida de las 3 promesas
   Promise.race([promesa1(), promesa2(), promesa3()])
     .then((resultado) => {

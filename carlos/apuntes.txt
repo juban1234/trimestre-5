@@ -1,0 +1,66 @@
+una cultura devops es una tradicion que busca integrar los equipos de desarrollo de software y los equipos de tecnologia 
+de informacion, para poder optimisar el trabajo de ambas parte
+
+objetivos de la tradicion
+
+automatizacion: esta metodologia busca mejorar los procesos para acer los mas rapidos y eficientes
+
+integrar y entrega continua: facilitar el filujo de las actualizacion al aumentar la comunicacion estre los desarrolladores y los usuario para poder aumentar
+la fracuancia y velocidad de las  actualizaciones
+
+colaboracionn de equipos: fomenta la colaboracion y integrecion de los equipos para permitir una mayor afluencia de informacion
+y inpedir los malentendidos
+
+mayor calidad del software: al trabajar juntos los equipos pueden realizar las pruebas del  software mas apido por lo cual 
+mejora la calidad del software, ademas aplican pruebas automaticas
+
+escalabilidad y flexibilidad : permite mejorar en la construccion de los sistemas y ademas de mejorar la escalabilidad del proyecto
+,ademas que permite mejorar los procesos y acerlos mas adaptables
+
+Mejora de la retroalimentación y la recuperación:  al hacer que los equipos trabajen juntos permite que todo el proceso se realize mas rapito al convinar una revicion rapito de los errores
+y mejora la recuperacion , solucion de problemas
+
+
+- origines 
+Desarrollo de software tradicional (Pre-2000)
+el los años 1980 a los 1990 los desarrolladores y los administradores de sistemas ,mantenian muchas fricciones a la hora de trabajar
+por que no siempre los dos equipos se entendian entre si lo que provocaba que los tiempos de entrega se retrasaran demaciado.
+
+
+amediados de los 2000 las metodologias mas agiles tomaron gran popularidad , pero aun este metodo se mantenia lejos de los desarrolladore y los operadores
+
+- El nacimiento de DevOps (2007-2009):
+
+en esos tiempos el termino devops aun no existian pero las grandes empresas se empesaron adar cuenta de que los metodos tradicionales ya no servian
+
+Patrick Debois, un consultor de tecnología de Bélgica, es considerado el "padre de DevOps". Durante un evento en 2007 llamado "Agile Infrastructure",
+ Patrick y otros profesionales discutieron las brechas entre los equipos de desarrollo y operaciones. Esta fue una de las primeras veces que se mencionó la necesidad de un enfoque que integrara estos equipos.
+En 2009, Patrick Debois organizó la primera DevOpsDays en Bélgica, un evento que reunía a profesionales de la tecnología para discutir 
+la creación de un enfoque colaborativo entre desarrollo y operaciones. Este evento marcó el nacimiento oficial de la cultura DevOps.
+
+
+- Expansión y adopción (2010-2015)
+herramientas que ganaron popularidad en esos tiepos
+Jenkins, Docker, Chef, Puppet, Ansible y Kubernetes
+
+
+- 4. Consolidación y madurez (2015-2020)
+
+
+- 5. El estado actual de DevOps (2020 - presente)
+
+
+(integración continua (CI) y la entrega continua (CD).)
+
+la integracion continua es : es la practica de integrar cambios continuo en el codigo en unrepositorio,con el fin de detectar los errores  de manera temprana,manteniendo el codigo funcional.
+este se integra continuamente durantetodo el dia ,sometiendose a pruevas de automatisadas para evitar la intruccion de errores
+
+la automatisacion: la automatisacio en devops hace referencia sobre al uso de herramientas ,scripts para automatisar procesos repetitivos
+tambiense usa para prevenir errores humanos
+
+
+
+
+
+
+
