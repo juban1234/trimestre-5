@@ -32,7 +32,9 @@ namespace CalculadoraApp
             num1 = double.Parse(resultados.Text);
             operador = operadorSeleccionado;
             label2.Text = num1 + operadorSeleccionado;
-            
+            resultados.Text = "";
+
+
         }
 
 
