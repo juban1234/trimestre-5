@@ -1,0 +1,45 @@
+create database biblioteca;
+use biblioteca;
+drop table if exists libros;
+
+ create table libros(
+  codigo int auto_increment,
+  titulo varchar(40),
+  autor varchar(30),
+  editorial varchar(20),
+  precio decimal(5,2),
+  primary key(codigo) 
+ );
+
+ insert into libros (titulo,autor,editorial,precio) 
+  values ('Uno','Richard Bach','Planeta',15);
+ insert into libros (titulo,autor,editorial,precio) 
+  values ('Ilusiones','Richard Bach','Planeta',12);
+ insert into libros (titulo,autor,editorial,precio) 
+  values ('El aleph','Borges','Emece',25);
+ insert into libros (titulo,autor,editorial,precio) 
+  values ('Aprenda PHP','Mario Molina','Nuevo siglo',50);
+ insert into libros (titulo,autor,editorial,precio) 
+  values ('Matematica estas ahi','Paenza','Nuevo siglo',18);
+ insert into libros (titulo,autor,editorial,precio) 
+  values ('Puente al infinito','Bach Richard','Sudamericana',14);
+ insert into libros (titulo,autor,editorial,precio) 
+  values ('Antología','J. L. Borges','Paidos',24);
+ insert into libros (titulo,autor,editorial,precio) 
+  values ('Java en 10 minutos','Mario Molina','Siglo XXI',45);
+ insert into libros (titulo,autor,editorial,precio) 
+  values ('Cervantes y el quijote','Borges- Casares','Planeta',34);
+  
+  -- Realizar un procedimiento almacenado donde consulte titulo, editorial y precio del libro según sea su autor.
+
+ drop procedure if exists pa_libros_autor;
+ 
+ --Llama al procedimiento almacenado
+ 
+ /*crear un procedimiento almacenado que busque 
+ el titulo del libro y su precio según sea su autor y editorial*/
+ 
+-- Llamar al procedimiento almacenado creado
+/*con esta misma tabla  crear un procedimiento almacenado con un parámetro
+de entrada mostrando al autor y precio del libro 
+y otro con tres parámetros de entrada mostrando el precio del libro*/ 

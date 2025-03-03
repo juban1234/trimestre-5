@@ -14,3 +14,7 @@ begin
 end//
 delimiter ;
 
+use biblioteca;
+
+call Pa_busqueda("pepe");
+

@@ -18,8 +18,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto1\\CalculadoraApp\\CalculadoraApp\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoraApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto1\\CalculadoraApp\\CalculadoraApp\\Form1.cs",
+              "RelativeToolTip": "CalculadoraApp\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:54:26.125Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -30,20 +44,8 @@
               "RelativeToolTip": "CalculadoraApp\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T19:09:00.88Z",
+              "IsPinned": true,
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto1\\CalculadoraApp\\CalculadoraApp\\Form1.cs",
-              "RelativeDocumentMoniker": "CalculadoraApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto1\\CalculadoraApp\\CalculadoraApp\\Form1.cs",
-              "RelativeToolTip": "CalculadoraApp\\Form1.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T19:54:26.125Z",
-              "EditorCaption": ""
             }
           ]
         }
