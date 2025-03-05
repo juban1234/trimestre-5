@@ -2,9 +2,8 @@ pasos para clonar el repositorio
 
 1 git clone https://github.com/usuario/nombre-del-repositorio.git
 
-2 git checkout nombre-de-la-rama
+2 git fetch
 
-3 git fetch
+3 git checkout nombre-de-la-rama
 
-4 git checkout nombre-de-la-rama
 
