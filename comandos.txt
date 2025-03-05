@@ -1,0 +1,10 @@
+pasos para clonar el repositorio
+
+1 git clone https://github.com/usuario/nombre-del-repositorio.git
+
+2 git checkout nombre-de-la-rama
+
+3 git fetch
+
+4 git checkout nombre-de-la-rama
+
