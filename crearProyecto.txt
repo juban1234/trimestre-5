@@ -1,0 +1,23 @@
+este es el comando para instalar el espacio de trabajo
+
+npm create vite@latest nombre del proyecto
+
+luego de segur el procesimineto nnormal 
+
+despues se debe instalar la librerio de talwind
+npm install tailwindcss @tailwindcss/vite
+
+y luego configurar las configuraciones
+
+las configuraciones deben parecer algo asi 
+
+import tailwindcss from '@tailwindcss/vite'
+
+export default defineConfig({
+  plugins: [
+    tailwindcss(),
+  ],
+})
+
+para poder instalar el modulo para permitir navegar entre paginas se deben instalar esta libreria
+npm install react-router-dom
