@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|solutionrelative:principal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\biblioteca\\principal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\principal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|solutionrelative:principal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|solutionrelative:principal\\formlibreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\biblioteca\\principal\\formlibreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\principal\\formlibreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|solutionrelative:principal\\formlibreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -37,8 +37,7 @@
               "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Principal\\FormLibreria.cs [Dise\u00F1o]",
               "RelativeToolTip": "Principal\\FormLibreria.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T22:37:28.893Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-03-05T22:37:28.893Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Principal\\FormLibreria.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAswBcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T22:27:34.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T22:27:34.503Z"
             },
             {
               "$type": "Document",
@@ -75,8 +73,7 @@
               "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Principal\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Principal\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T22:26:19.65Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-03-05T22:26:19.65Z"
             }
           ]
         }
