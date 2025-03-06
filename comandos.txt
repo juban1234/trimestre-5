@@ -6,4 +6,11 @@ pasos para clonar el repositorio
 
 3 git checkout nombre-de-la-rama
 
+y para enviar algo ala rama se debe realizar el comando git fetch y luego
+
+git pull origin carlos
+
+git push origin nombre de la rama
+para poder enviar el contenido
+
 
