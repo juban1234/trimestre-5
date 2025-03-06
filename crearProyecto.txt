@@ -19,5 +19,8 @@ export default defineConfig({
   ],
 })
 
+tambien se importa en el css si se usa
+
+
 para poder instalar el modulo para permitir navegar entre paginas se deben instalar esta libreria
 npm install react-router-dom
