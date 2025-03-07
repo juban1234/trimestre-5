@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6677B30-1890-473A-A072-0EE34B70BC3E}|Modelo\\Modelo.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\proyecto4\\proyectocapas\\modelo\\conexionmsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6677B30-1890-473A-A072-0EE34B70BC3E}|Modelo\\Modelo.csproj|solutionrelative:modelo\\conexionmsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E22C1-9819-47EB-8184-C3C6D1D8D4F6}|Principal\\Principal.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\proyecto4\\proyectocapas\\principal\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80E22C1-9819-47EB-8184-C3C6D1D8D4F6}|Principal\\Principal.csproj|solutionrelative:principal\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E22C1-9819-47EB-8184-C3C6D1D8D4F6}|Principal\\Principal.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\proyecto4\\proyectocapas\\principal\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C80E22C1-9819-47EB-8184-C3C6D1D8D4F6}|Principal\\Principal.csproj|solutionrelative:principal\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E22C1-9819-47EB-8184-C3C6D1D8D4F6}|Principal\\Principal.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\proyecto4\\proyectocapas\\principal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80E22C1-9819-47EB-8184-C3C6D1D8D4F6}|Principal\\Principal.csproj|solutionrelative:principal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E22C1-9819-47EB-8184-C3C6D1D8D4F6}|Principal\\Principal.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\proyecto4\\proyectocapas\\principal\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80E22C1-9819-47EB-8184-C3C6D1D8D4F6}|Principal\\Principal.csproj|solutionrelative:principal\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E22C1-9819-47EB-8184-C3C6D1D8D4F6}|Principal\\Principal.csproj|C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\principal\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C80E22C1-9819-47EB-8184-C3C6D1D8D4F6}|Principal\\Principal.csproj|solutionrelative:principal\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80E22C1-9819-47EB-8184-C3C6D1D8D4F6}|Principal\\Principal.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\proyecto4\\proyectocapas\\principal\\principal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C80E22C1-9819-47EB-8184-C3C6D1D8D4F6}|Principal\\Principal.csproj|solutionrelative:principal\\principal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232990DB-22F0-4E1A-BE12-8E115EACEF5A}|Logica\\Logica.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\proyecto4\\proyectocapas\\logica\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232990DB-22F0-4E1A-BE12-8E115EACEF5A}|Logica\\Logica.csproj|solutionrelative:logica\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\Principal\\Menu.cs",
+              "RelativeDocumentMoniker": "Principal\\Menu.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\Principal\\Menu.cs",
+              "RelativeToolTip": "Principal\\Menu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T22:35:45.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "crearUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\Principal\\crearUsuario.cs",
+              "RelativeDocumentMoniker": "Principal\\crearUsuario.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\Principal\\crearUsuario.cs",
+              "RelativeToolTip": "Principal\\crearUsuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T22:33:55.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "crearUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\Principal\\crearUsuario.cs",
+              "RelativeDocumentMoniker": "Principal\\crearUsuario.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\Principal\\crearUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\crearUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T22:31:52.174Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\Principal\\Usuario.cs",
+              "RelativeDocumentMoniker": "Principal\\Usuario.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\Principal\\Usuario.cs",
+              "RelativeToolTip": "Principal\\Usuario.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvyEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T22:21:00.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Principal",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\Principal\\Principal.csproj",
+              "RelativeDocumentMoniker": "Principal\\Principal.csproj",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\Principal\\Principal.csproj",
+              "RelativeToolTip": "Principal\\Principal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T22:20:27.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\Logica\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Logica\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\Logica\\UsuarioController.cs",
+              "RelativeToolTip": "Logica\\UsuarioController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T22:13:54.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexionMsql.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\Modelo\\ConexionMsql.cs",
+              "RelativeDocumentMoniker": "Modelo\\ConexionMsql.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\Modelo\\ConexionMsql.cs",
+              "RelativeToolTip": "Modelo\\ConexionMsql.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:19:52.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\Principal\\Usuario.cs",
+              "RelativeDocumentMoniker": "Principal\\Usuario.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\ProyectoCapas\\Principal\\Usuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\Usuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:36:33.693Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

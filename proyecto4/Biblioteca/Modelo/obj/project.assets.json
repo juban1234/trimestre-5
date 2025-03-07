@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Modelo\\Modelo.csproj",
+      "projectUniqueName": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Modelo\\Modelo.csproj",
       "projectName": "Modelo",
-      "projectPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Modelo\\Modelo.csproj",
+      "projectPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Modelo\\Modelo.csproj",
       "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Modelo\\obj\\",
+      "outputPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Modelo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\",
+  "WorkspaceRootPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\biblioteca\\principal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{268E32FB-FB81-42B0-9CA0-C230ED8CA1B3}|Logica\\Logica.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\proyecto4\\biblioteca\\logica\\bibliotecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268E32FB-FB81-42B0-9CA0-C230ED8CA1B3}|Logica\\Logica.csproj|solutionrelative:logica\\bibliotecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CAE599-F301-47BC-9B3D-D2875703A729}|Modelo\\Modelo.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\proyecto4\\biblioteca\\modelo\\entity\\entitylibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CAE599-F301-47BC-9B3D-D2875703A729}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entity\\entitylibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CAE599-F301-47BC-9B3D-D2875703A729}|Modelo\\Modelo.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\proyecto4\\biblioteca\\modelo\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CAE599-F301-47BC-9B3D-D2875703A729}|Modelo\\Modelo.csproj|solutionrelative:modelo\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\proyecto4\\biblioteca\\principal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|solutionrelative:principal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\principal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\principal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|solutionrelative:principal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\biblioteca\\principal\\formlibreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\proyecto4\\biblioteca\\principal\\formlibreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|solutionrelative:principal\\formlibreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\principal\\formlibreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\principal\\formlibreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{55A2E392-88A6-432F-9C41-69FB847E36C8}|Principal\\Principal.csproj|solutionrelative:principal\\formlibreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,39 +38,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "BibliotecaController.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Logica\\BibliotecaController.cs",
+              "RelativeDocumentMoniker": "Logica\\BibliotecaController.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Logica\\BibliotecaController.cs",
+              "RelativeToolTip": "Logica\\BibliotecaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:33:29.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntityLibros.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Modelo\\Entity\\EntityLibros.cs",
+              "RelativeDocumentMoniker": "Modelo\\Entity\\EntityLibros.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Modelo\\Entity\\EntityLibros.cs",
+              "RelativeToolTip": "Modelo\\Entity\\EntityLibros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:32:45.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseDatos.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Modelo\\BaseDatos.cs",
+              "RelativeDocumentMoniker": "Modelo\\BaseDatos.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Modelo\\BaseDatos.cs",
+              "RelativeToolTip": "Modelo\\BaseDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:32:07.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FormLibreria.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Principal\\FormLibreria.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Principal\\FormLibreria.cs",
               "RelativeDocumentMoniker": "Principal\\FormLibreria.cs",
               "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Principal\\FormLibreria.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Principal\\FormLibreria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\carlos\\proyecto4\\Biblioteca\\Principal\\FormLibreria.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T22:37:28.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Principal\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Principal\\Form1.cs",
               "RelativeDocumentMoniker": "Principal\\Form1.cs",
-              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Principal\\Form1.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Principal\\Form1.cs",
               "RelativeToolTip": "Principal\\Form1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAswBoAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T22:33:39.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "FormLibreria.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Principal\\FormLibreria.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Principal\\FormLibreria.cs",
               "RelativeDocumentMoniker": "Principal\\FormLibreria.cs",
-              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Principal\\FormLibreria.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Principal\\FormLibreria.cs",
               "RelativeToolTip": "Principal\\FormLibreria.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAswBcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,12 +117,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Principal\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Principal\\Form1.cs",
               "RelativeDocumentMoniker": "Principal\\Form1.cs",
               "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Principal\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Principal\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\carlos\\proyecto4\\Biblioteca\\Principal\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T22:26:19.65Z"
             }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Principal\\Principal.csproj": {}
+    "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Principal\\Principal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Logica\\Logica.csproj": {
+    "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Logica\\Logica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Logica\\Logica.csproj",
+        "projectUniqueName": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Logica\\Logica.csproj",
         "projectName": "Logica",
-        "projectPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Logica\\Logica.csproj",
+        "projectPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Logica\\Logica.csproj",
         "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Logica\\obj\\",
+        "outputPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Logica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Modelo\\Modelo.csproj": {
-                "projectPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Modelo\\Modelo.csproj"
+              "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Modelo\\Modelo.csproj": {
+                "projectPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Modelo\\Modelo.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Modelo\\Modelo.csproj": {
+    "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Modelo\\Modelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Modelo\\Modelo.csproj",
+        "projectUniqueName": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Modelo\\Modelo.csproj",
         "projectName": "Modelo",
-        "projectPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Modelo\\Modelo.csproj",
+        "projectPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Modelo\\Modelo.csproj",
         "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Modelo\\obj\\",
+        "outputPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Modelo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -130,14 +130,14 @@
         }
       }
     },
-    "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Principal\\Principal.csproj": {
+    "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Principal\\Principal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Principal\\Principal.csproj",
+        "projectUniqueName": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Principal\\Principal.csproj",
         "projectName": "Principal",
-        "projectPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Principal\\Principal.csproj",
+        "projectPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Principal\\Principal.csproj",
         "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Principal\\obj\\",
+        "outputPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Principal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -155,8 +155,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Logica\\Logica.csproj": {
-                "projectPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\carlos\\proyecto4\\Biblioteca\\Logica\\Logica.csproj"
+              "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Logica\\Logica.csproj": {
+                "projectPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\proyecto4\\Biblioteca\\Logica\\Logica.csproj"
               }
             }
           }
