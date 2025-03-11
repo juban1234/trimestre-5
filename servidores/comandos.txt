@@ -1,2 +1,4 @@
+npm install
+
 tsc -init crear un proyecto tyscript
 tsc -w para copitar todos los archivos ts
