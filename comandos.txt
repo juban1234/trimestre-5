@@ -1,3 +1,24 @@
+configurar el git
+
+Cambiar el nombre de usuario:
+git config --global user.name "Nuevo Nombre"
+
+
+Cambiar la dirección de correo electrónico:
+git config --global user.email "nuevo_correo@ejemplo.com"
+Si solo quieres cambiarlo para un repositorio específico (y no globalmente), elimina la opción --global:
+
+Cambiar el nombre de usuario solo para un repositorio:
+
+git config user.name "Nuevo Nombre"
+
+
+Cambiar la dirección de correo electrónico solo para un repositorio:
+
+git config user.email "nuevo_correo@ejemplo.com"
+
+
+
 pasos para clonar el repositorio
 
 1 git clone https://github.com/usuario/nombre-del-repositorio.git
