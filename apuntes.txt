@@ -1,0 +1,33 @@
+tienda de ciclistas
+
+control  sobre la tienda
+
+nadie mas va tener acceso al computador
+
+caracteristicas
+
+control del inventario 
+- control sobre la cantidad de los productos
+- un registro fotografico del producto
+- la aplicacion debe ser trasparente para el vendedor facil para el vendedor
+- 
+
+botones para agregar productos deben ser grandes, escribir la cantidad de productos
+
+resultados de las ventas
+- los ventas realizadas
+
+
+quiere saber cual fue el valor total de la factura
+
+
+colores parecido al logo de la empresa, no problemas con los productos
+
+
+
+
+
+
+ 
+
+
