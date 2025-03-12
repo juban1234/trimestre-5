@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principal", "Principal\Principal.csproj", "{55A2E392-88A6-432F-9C41-69FB847E36C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{268E32FB-FB81-42B0-9CA0-C230ED8CA1B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{91CAE599-F301-47BC-9B3D-D2875703A729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55A2E392-88A6-432F-9C41-69FB847E36C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A2E392-88A6-432F-9C41-69FB847E36C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A2E392-88A6-432F-9C41-69FB847E36C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A2E392-88A6-432F-9C41-69FB847E36C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{268E32FB-FB81-42B0-9CA0-C230ED8CA1B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268E32FB-FB81-42B0-9CA0-C230ED8CA1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268E32FB-FB81-42B0-9CA0-C230ED8CA1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268E32FB-FB81-42B0-9CA0-C230ED8CA1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91CAE599-F301-47BC-9B3D-D2875703A729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CAE599-F301-47BC-9B3D-D2875703A729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CAE599-F301-47BC-9B3D-D2875703A729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CAE599-F301-47BC-9B3D-D2875703A729}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C3C1DDE-F39A-4660-B6B0-E5685E753B72}
+	EndGlobalSection
+EndGlobal

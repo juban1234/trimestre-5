@@ -1,0 +1,108 @@
+pasos para clonar el repositorio
+
+1 git clone https://github.com/usuario/nombre-del-repositorio.git
+
+2 git fetch
+
+3 git checkout nombre-de-la-rama
+
+y para enviar algo ala rama se debe realizar el comando git fetch y luego
+
+git pull origin carlos
+
+git push origin nombre de la rama
+para poder enviar el contenido
+
+
+comandos de github
+
+-- Comandos Básicos de Git
+
+git log: Muestra el historial de commits del repositorio.
+Ver las diferencias entre archivos
+
+git diff: Muestra las diferencias entre el estado actual y el último commit.
+
+
+-- Comandos para Manejar Ramas (Branches)
+
+git checkout -b <nombre_rama>: Crea una nueva rama y cambia a ella de inmediato.
+Eliminar una rama
+
+git branch -d <nombre_rama>: Elimina una rama local.
+
+git merge <nombre_rama>: Fusiona la rama especificada con la rama actual.
+
+git branch -r: Muestra las ramas remotas.
+
+
+-- Comandos para Gestionar Repositorios Remotos
+
+
+git remote -v: Muestra las URLs de los repositorios remotos configurados.
+Agregar un repositorio remoto
+
+git remote add origin <url>: Añade un repositorio remoto con el nombre origin y la URL especificada.
+Obtener cambios desde un repositorio remoto (fetch)
+
+git fetch: Obtiene cambios desde el repositorio remoto, pero no los fusiona con tu rama local.
+Subir cambios al repositorio remoto
+
+git push origin <rama>: Sube los cambios de tu rama local a la rama correspondiente en el repositorio remoto.
+Actualizar tu rama local con cambios remotos
+
+git pull origin <rama>: Trae los cambios del repositorio remoto y los fusiona con tu rama local.
+Eliminar una rama remota
+
+git push origin --delete <nombre_rama>: Elimina una rama remota del repositorio.
+
+
+-- Comandos para Manejar Archivos y Directorios
+Eliminar un archivo del repositorio (y del sistema de archivos)
+
+git rm <archivo>: Elimina un archivo del repositorio y del sistema de archivos.
+Eliminar un archivo del repositorio (pero conservarlo localmente)
+
+git rm --cached <archivo>: Elimina un archivo del repositorio, pero mantiene una copia local del archivo.
+Renombrar un archivo
+
+git mv <archivo_antiguo> <archivo_nuevo>: Renombra un archivo.
+
+
+-- Comandos Avanzados de Git
+Revertir un commit
+
+git revert <id_commit>: Crea un nuevo commit que revierte los cambios del commit especificado.
+Resetear un commit
+
+git reset <id_commit>: Deshace los commits realizados desde el commit especificado. Puede afectar el historial de tu repositorio.
+Ver el historial de un archivo específico
+
+git log <archivo>: Muestra el historial de un archivo específico.
+Crear un alias para un comando de Git
+
+git config --global alias.<nombre_alias> <comando>: Crea un alias para un comando de Git.
+
+
+-- Comandos Relacionados con GitHub (en la terminal)
+Autenticarse en GitHub (si usas HTTPS)
+
+git config --global credential.helper cache: Guarda tu contraseña de GitHub en caché para no tener que escribirla cada vez.
+Subir una clave SSH a GitHub
+
+ssh-keygen -t rsa -b 4096 -C "<tu_email>": Crea una clave SSH para tu cuenta de GitHub.
+Luego, sigue las instrucciones para agregar la clave a GitHub en tu perfil.
+Ver los repositorios de GitHub
+
+gh repo list: Lista los repositorios de tu cuenta de GitHub (requiere GitHub CLI).
+Crear un repositorio en GitHub desde la terminal
+
+gh repo create <nombre_repo>: Crea un nuevo repositorio en GitHub.
+
+
+
+
+
+
+
+

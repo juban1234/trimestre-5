@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principal", "Principal\Principal.csproj", "{C80E22C1-9819-47EB-8184-C3C6D1D8D4F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{232990DB-22F0-4E1A-BE12-8E115EACEF5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{B6677B30-1890-473A-A072-0EE34B70BC3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C80E22C1-9819-47EB-8184-C3C6D1D8D4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C80E22C1-9819-47EB-8184-C3C6D1D8D4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C80E22C1-9819-47EB-8184-C3C6D1D8D4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C80E22C1-9819-47EB-8184-C3C6D1D8D4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{232990DB-22F0-4E1A-BE12-8E115EACEF5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232990DB-22F0-4E1A-BE12-8E115EACEF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232990DB-22F0-4E1A-BE12-8E115EACEF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232990DB-22F0-4E1A-BE12-8E115EACEF5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6677B30-1890-473A-A072-0EE34B70BC3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6677B30-1890-473A-A072-0EE34B70BC3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6677B30-1890-473A-A072-0EE34B70BC3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6677B30-1890-473A-A072-0EE34B70BC3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEC98B16-C434-43C2-B6AD-55514F94C81E}
+	EndGlobalSection
+EndGlobal
