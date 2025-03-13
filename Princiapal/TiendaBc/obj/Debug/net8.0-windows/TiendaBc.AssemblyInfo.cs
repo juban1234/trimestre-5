@@ -11,13 +11,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Logica")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TiendaBc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6b27dad67c013027940e3568135dc69b26e8419")]
-[assembly: System.Reflection.AssemblyProductAttribute("Logica")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Logica")]
+[assembly: System.Reflection.AssemblyProductAttribute("TiendaBc")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TiendaBc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 
