@@ -40,7 +40,7 @@ namespace Modelo
             // Usamos parámetros para evitar inyección SQL
             using (MySqlCommand cmd = GetConnection().CreateCommand())
             {
-                cmd.CommandText = "INSERT INTO users (Name, Description) VALUES (@name, @description)";
+                cmd.CommandText = "INSERT INTO users ( Name, Description) VALUES (@name, @description)";
 
                 // Definir los parámetros
                 cmd.Parameters.AddWithValue("@name", name);
@@ -52,6 +52,8 @@ namespace Modelo
 
             return resultado;
         }
+
+
     }
 }
 

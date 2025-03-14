@@ -1,0 +1,41 @@
+boton de verificar stock
+
+boton para agregar producto
+
+boton para eliminar producto
+
+boton para editar producto
+
+
+
+-- filtros de ventas
+-- factura para el cliente
+
+
+
+// la base de datos debe permitir agragar imagenes : posible agregado
+
+// tablas de la base de datos
+
+una funcion que permita verificar siempre el inventario de cada producto para ser coerente y poder actualizarlo facilmente
+agregar una funcion que alerte
+
+
+estructura de la aplicacion 
+
+
+ inventario --- editar 
+            --- verificar inventario
+
+crear --- agregar producto
+
+
+
+propiedades a agregar :  ingresar el nombre, precio, cantidad, y fotografía del producto.
+
+la cantidad del productodebe ser facil de agregar
+
+crear una forma de autentificacion
+
+ 
+

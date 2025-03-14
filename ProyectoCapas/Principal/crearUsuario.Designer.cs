@@ -36,7 +36,7 @@
             // 
             // btGuardar
             // 
-            btGuardar.Location = new Point(96, 203);
+            btGuardar.Location = new Point(85, 265);
             btGuardar.Name = "btGuardar";
             btGuardar.Size = new Size(120, 42);
             btGuardar.TabIndex = 0;
@@ -47,7 +47,7 @@
             // lbResultado
             // 
             lbResultado.AutoSize = true;
-            lbResultado.Location = new Point(112, 311);
+            lbResultado.Location = new Point(101, 373);
             lbResultado.Name = "lbResultado";
             lbResultado.Size = new Size(38, 15);
             lbResultado.TabIndex = 1;
@@ -55,14 +55,14 @@
             // 
             // tbNombre
             // 
-            tbNombre.Location = new Point(96, 74);
+            tbNombre.Location = new Point(85, 136);
             tbNombre.Name = "tbNombre";
             tbNombre.Size = new Size(166, 23);
             tbNombre.TabIndex = 2;
             // 
             // tbDescriptcion
             // 
-            tbDescriptcion.Location = new Point(96, 150);
+            tbDescriptcion.Location = new Point(85, 212);
             tbDescriptcion.Name = "tbDescriptcion";
             tbDescriptcion.Size = new Size(166, 23);
             tbDescriptcion.TabIndex = 3;

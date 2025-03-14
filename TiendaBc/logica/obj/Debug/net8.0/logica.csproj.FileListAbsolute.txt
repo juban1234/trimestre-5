@@ -1,0 +1,16 @@
+C:\Users\SENA\Documents\juan grajales\trimestre-5\TiendaBc\logica\bin\Debug\net8.0\logica.deps.json
+C:\Users\SENA\Documents\juan grajales\trimestre-5\TiendaBc\logica\bin\Debug\net8.0\logica.dll
+C:\Users\SENA\Documents\juan grajales\trimestre-5\TiendaBc\logica\bin\Debug\net8.0\logica.pdb
+C:\Users\SENA\Documents\juan grajales\trimestre-5\TiendaBc\logica\bin\Debug\net8.0\Modelo.dll
+C:\Users\SENA\Documents\juan grajales\trimestre-5\TiendaBc\logica\bin\Debug\net8.0\Modelo.pdb
+C:\Users\SENA\Documents\juan grajales\trimestre-5\TiendaBc\logica\obj\Debug\net8.0\logica.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\juan grajales\trimestre-5\TiendaBc\logica\obj\Debug\net8.0\logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\juan grajales\trimestre-5\TiendaBc\logica\obj\Debug\net8.0\logica.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\juan grajales\trimestre-5\TiendaBc\logica\obj\Debug\net8.0\logica.AssemblyInfo.cs
+C:\Users\SENA\Documents\juan grajales\trimestre-5\TiendaBc\logica\obj\Debug\net8.0\logica.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\juan grajales\trimestre-5\TiendaBc\logica\obj\Debug\net8.0\logica.sourcelink.json
+C:\Users\SENA\Documents\juan grajales\trimestre-5\TiendaBc\logica\obj\Debug\net8.0\logica.csproj.Up2Date
+C:\Users\SENA\Documents\juan grajales\trimestre-5\TiendaBc\logica\obj\Debug\net8.0\logica.dll
+C:\Users\SENA\Documents\juan grajales\trimestre-5\TiendaBc\logica\obj\Debug\net8.0\refint\logica.dll
+C:\Users\SENA\Documents\juan grajales\trimestre-5\TiendaBc\logica\obj\Debug\net8.0\logica.pdb
+C:\Users\SENA\Documents\juan grajales\trimestre-5\TiendaBc\logica\obj\Debug\net8.0\ref\logica.dll
