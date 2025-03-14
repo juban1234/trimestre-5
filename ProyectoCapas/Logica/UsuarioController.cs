@@ -20,24 +20,24 @@ namespace Logica
 
         }
 
-        public string GuardarUsuario(string name ,string description)
+        public string GuardarUsuario(string name, string description)
         {
-            string resultado = "";
+            // Llamada al método de la capa de lógica de negocios o base de datos.
+            BaseDatos baseDatos = new BaseDatos();
+            int resultado = baseDatos.GuardarUsuario(name, description);
 
-            BaseDatos db = new BaseDatos();
-            int filasAfectadas = db.GuardarUsuario(name, description);
-
-            if (filasAfectadas > 0)
+            // Retornar un mensaje basado en el resultado
+            if (resultado > 0)
             {
-                resultado = "Guardado";
-
+                return "Usuario guardado con éxito.";
             }
             else
             {
-                resultado = "No guardado";
+                return "Error al guardar el usuario.";
             }
-
-            return resultado;
         }
+
+
+
     }
 }
