@@ -1,27 +1,15 @@
-import { useState } from 'react'
+import { Color } from "./components/Color/Color"
+import { Texto } from "./components/Texto/Texto"
+
 
 
 export const App = () => {
-  const [text, setTexto] = useState('')
-  const [username, setUsername] = useState("bienvenido usuario")
-
-  const handleGreet = () =>{
-    setUsername('bienvenido ' +text)
-  }
 
   return (
-    <main className=''>
-    <h1>{username} </h1>
-      <input type="text"         
-        value={text}
-        onChange={(e) => setTexto(e.target.value)}
-        placeholder='nombre usuario' />
-
-      <button onClick={handleGreet}>
-          iniciar
-      </button>
-    </main>
-
+    <>
+     {/* <Texto/> */}
+     <Color/>
+    </>
   )
 }
 
