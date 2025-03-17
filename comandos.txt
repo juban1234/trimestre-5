@@ -121,6 +121,15 @@ Crear un repositorio en GitHub desde la terminal
 gh repo create <nombre_repo>: Crea un nuevo repositorio en GitHub.
 
 
+--- 
+Verificar configuración de la rama		git config --get-regexp branch.carlos
+Eliminar configuración duplicada		git config --unset-all branch.carlos.remote
+                                        	git config --unset-all branch.carlos.merge
+Volver a configurar la rama	        	git branch --set-upstream-to=origin/carlos carlos
+Forzar la configuración al hacer push		git push --set-upstream origin carlos
+Verificar cambios pendientes			git status
+
+
 
 
 
