@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\TiendaBc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB37185-3A3D-4272-ADE6-CE965CB838DF}|Principal\\Principal.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\tiendabc\\principal\\eliminarp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB37185-3A3D-4272-ADE6-CE965CB838DF}|Principal\\Principal.csproj|solutionrelative:principal\\eliminarp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0A690D-3D8F-4073-9C4E-4E9D75CFAAB8}|Modelo\\Modelo.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\tiendabc\\modelo\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0A690D-3D8F-4073-9C4E-4E9D75CFAAB8}|Modelo\\Modelo.csproj|solutionrelative:modelo\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0A690D-3D8F-4073-9C4E-4E9D75CFAAB8}|Modelo\\Modelo.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\tiendabc\\modelo\\conexionmyql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0A690D-3D8F-4073-9C4E-4E9D75CFAAB8}|Modelo\\Modelo.csproj|solutionrelative:modelo\\conexionmyql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A613C92B-19E2-4549-972A-60C8A072A621}|logica\\logica.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\tiendabc\\logica\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A613C92B-19E2-4549-972A-60C8A072A621}|logica\\logica.csproj|solutionrelative:logica\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB37185-3A3D-4272-ADE6-CE965CB838DF}|Principal\\Principal.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\tiendabc\\principal\\agregarp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB37185-3A3D-4272-ADE6-CE965CB838DF}|Principal\\Principal.csproj|solutionrelative:principal\\agregarp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB37185-3A3D-4272-ADE6-CE965CB838DF}|Principal\\Principal.csproj|c:\\users\\sena\\documents\\juan grajales\\trimestre-5\\tiendabc\\principal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB37185-3A3D-4272-ADE6-CE965CB838DF}|Principal\\Principal.csproj|solutionrelative:principal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB37185-3A3D-4272-ADE6-CE965CB838DF}|Principal\\Principal.csproj|C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\TiendaBc\\principal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AB37185-3A3D-4272-ADE6-CE965CB838DF}|Principal\\Principal.csproj|solutionrelative:principal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseDatos.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\TiendaBc\\Modelo\\BaseDatos.cs",
+              "RelativeDocumentMoniker": "Modelo\\BaseDatos.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\TiendaBc\\Modelo\\BaseDatos.cs",
+              "RelativeToolTip": "Modelo\\BaseDatos.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:36:54.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "usuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\TiendaBc\\logica\\usuarioController.cs",
+              "RelativeDocumentMoniker": "logica\\usuarioController.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\TiendaBc\\logica\\usuarioController.cs",
+              "RelativeToolTip": "logica\\usuarioController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:35:44.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EliminarP.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\TiendaBc\\Principal\\EliminarP.cs",
+              "RelativeDocumentMoniker": "Principal\\EliminarP.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\TiendaBc\\Principal\\EliminarP.cs",
+              "RelativeToolTip": "Principal\\EliminarP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:34:15.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgregarP.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\TiendaBc\\Principal\\AgregarP.cs",
+              "RelativeDocumentMoniker": "Principal\\AgregarP.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\TiendaBc\\Principal\\AgregarP.cs",
+              "RelativeToolTip": "Principal\\AgregarP.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:33:47.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConexionMyql.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\TiendaBc\\Modelo\\ConexionMyql.cs",
+              "RelativeDocumentMoniker": "Modelo\\ConexionMyql.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\TiendaBc\\Modelo\\ConexionMyql.cs",
+              "RelativeToolTip": "Modelo\\ConexionMyql.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:22:03.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\TiendaBc\\Principal\\Menu.cs",
+              "RelativeDocumentMoniker": "Principal\\Menu.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\TiendaBc\\Principal\\Menu.cs",
+              "RelativeToolTip": "Principal\\Menu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:07:25.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\TiendaBc\\Principal\\Menu.cs",
+              "RelativeDocumentMoniker": "Principal\\Menu.cs",
+              "ToolTip": "C:\\Users\\SENA\\Documents\\juan grajales\\trimestre-5\\TiendaBc\\Principal\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-14T22:07:21.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
