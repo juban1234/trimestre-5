@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+<<<<<<< HEAD
             button1 = new Button();
             SuspendLayout();
             // 
@@ -55,5 +56,14 @@
         #endregion
 
         private Button button1;
+=======
+            this.components = new System.ComponentModel.Container();
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Text = "EliminarP";
+        }
+
+        #endregion
+>>>>>>> e6eebf877f071d9069d87c4c8dfed48bdcb50468
     }
 }

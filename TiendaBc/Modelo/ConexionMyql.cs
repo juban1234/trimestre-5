@@ -14,7 +14,11 @@ namespace Modelo
         
         public ConexionMsql()
         {
+<<<<<<< HEAD
             cadenaConexion = "Server=localhost; Database=tiendadb; Uid=juanGrajales; Pwd=MiClaveSegura123;";
+=======
+            cadenaConexion = "Server=localhost; Database=tiendadb; Uid=root; Pwd=;";
+>>>>>>> e6eebf877f071d9069d87c4c8dfed48bdcb50468
             connection = new MySqlConnection(cadenaConexion);
         }
 

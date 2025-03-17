@@ -88,6 +88,7 @@ namespace Modelo
             return resultado;
         }
 
+<<<<<<< HEAD
         public int EliminarProducto(ProductoEntity producto)
         {
             int resultado = 0; // Cambiamos a int para reflejar filas afectadas
@@ -117,6 +118,8 @@ namespace Modelo
 
             return resultado; // Devolver número de filas afectadas
         }
+=======
+>>>>>>> e6eebf877f071d9069d87c4c8dfed48bdcb50468
 
     }
 }

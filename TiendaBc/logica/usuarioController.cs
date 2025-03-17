@@ -42,10 +42,14 @@ namespace logica
             }
         }
 
+<<<<<<< HEAD
         public string EliminarProducto(string nombre)
         {
 
         }
+=======
+
+>>>>>>> e6eebf877f071d9069d87c4c8dfed48bdcb50468
     }
 }
 

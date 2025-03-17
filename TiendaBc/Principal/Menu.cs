@@ -21,8 +21,12 @@ namespace Principal
 
         private void button4_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             EliminarP eliminarP = new EliminarP();
             eliminarP.ShowDialog();
+=======
+
+>>>>>>> e6eebf877f071d9069d87c4c8dfed48bdcb50468
         }
 
 
