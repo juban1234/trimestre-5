@@ -1,5 +1,6 @@
-import { Color } from "./components/Color/Color"
-import { Texto } from "./components/Texto/Texto"
+import { Home } from "./Home/Home"
+
+
 
 
 
@@ -8,7 +9,7 @@ export const App = () => {
   return (
     <>
      {/* <Texto/> */}
-     <Color/>
+     <Home/>
     </>
   )
 }
