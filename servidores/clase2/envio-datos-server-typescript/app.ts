@@ -22,10 +22,6 @@ app.post('/register', function (request: Request, response: Response) {
     return response.status(200).json({
         "Status": "ok registrado",
         nombres: nombres, apellidos: apellidos
-<<<<<<< HEAD
-    
-=======
->>>>>>> 83bfe1f91c57302b8d6c8ba54a2236182410fe8e
     });
 });
 
