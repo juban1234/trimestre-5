@@ -13,7 +13,7 @@ export const PageMode = () => {
     
 
     const modeColor = () =>{
-        setColorIndex((prevIndex) => (prevIndex + 1) % colors.length);
+        setColorIndex((prevIndex) => (prevIndex + 1) % mode.length);
     }
 
   return (

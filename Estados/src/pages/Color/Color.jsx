@@ -1,4 +1,6 @@
 import { useState } from "react";
+import { PageMode } from "../../Ui/PageMode";
+
 
 export const Color = () => {
   const colors = ["#FF0000",     // Rojo
@@ -47,6 +49,7 @@ export const Color = () => {
           Cambiar Color
         </button>
 
+        <PageMode/>
 
       </div>
     </>
