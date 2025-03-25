@@ -1,4 +1,13 @@
 "use strict";
+var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
@@ -18,16 +27,15 @@ app.listen(PORT, () => {
 }).on("error", (error) => {
     throw new Error(error.message);
 });
-app.get("/productos", (res) => {
-    config_1.default.execute('SELECT * FROM productos')
-        .then(([result]) => {
-        res.json(result);
-    })
-        .catch((e) => {
-        console.error(e);
-        res.status(500).json({ message: 'Error al obtener los productos' });
-    });
-});
+app.get("/productos", (req, res) => __awaiter(void 0, void 0, void 0, function* () {
+    try {
+        const [rows] = yield config_1.default.execute("SELECT * FROM productos");
+        res.json(rows); // Aquí res debe ser válido
+    }
+    catch (error) {
+        res.status(500).json({ message: "Error al obtener los productos" });
+    }
+}));
 // INSERT
 app.post("/insetar", (req, res) => {
     const { nombres, descripcion, precio, cantidad, imagen } = req.body;

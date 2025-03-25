@@ -19,17 +19,13 @@ app.listen(PORT, () => {
 });
 
 
-app.get("/productos", (res: Response) => {
-  db.execute('SELECT * FROM productos')
-    .then(([result]: any) => {
-      res.json(result);
-    }
-    )
-    .catch((e: Error) => {
-      console.error(e);
-      res.status(500).json({ message: 'Error al obtener los productos' });
-    }
-    );
+app.get("/productos", async (req: Request, res: Response) => {
+  try {
+    const [rows] = await db.execute("SELECT * FROM productos");
+    res.json(rows); // Aquí res debe ser válido
+  } catch (error) {
+    res.status(500).json({ message: "Error al obtener los productos" });
+  }
 });
 
 // INSERT

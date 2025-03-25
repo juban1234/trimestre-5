@@ -6,7 +6,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const promise_1 = __importDefault(require("mysql2/promise"));
 const db = promise_1.default.createPool({
     host: 'localhost',
-    user: 'root',
+    user: 'prueva',
     password: '',
     database: 'tiendadb',
     connectionLimit: 10,
