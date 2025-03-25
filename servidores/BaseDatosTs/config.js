@@ -9,7 +9,6 @@ dotenv_1.default.config();
 const db = mysql2_1.default.createPool({
     host: process.env.DB_HOST,
     user: process.env.DB_USERNAME,
-    password: process.env.DB_PASSWORD,
     database: process.env.DB_DATABASE,
     connectionLimit: 10,
     queueLimit: 0
